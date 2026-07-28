@@ -44,7 +44,7 @@ In addition to CLI-based module development and end-to-end integration, two web 
 - Identity Registry Agent
 - Token Agent
 
-![Admin Portal](images/admin_portal.jpg)
+![Admin Portal](admin_portal.jpg)
 
 #### Investor Portal
 - Portfolio
@@ -62,7 +62,7 @@ In addition to CLI-based module development and end-to-end integration, two web 
 It also displays holdings, compliance status, and on-chain records.  
 *(Claims page is currently hidden — claims are issued by the Issuer side.)*
 
-![Investor Portal](images/investor_portal.jpg)
+![Investor Portal](investor_portal.jpg)
 
 ### Current Status
 
@@ -86,7 +86,7 @@ A **crypto compliance journey guide** designed for ERC-3643 investors. It helps 
 
 Before responding, the assistant uses **Tool Calling** to query live on-chain and off-chain data, then provides actionable next steps (including portal deep links).
 
-![KNOWP Investor Assistant](images/assistant.jpg)
+![KNOWP Investor Assistant](assistant.jpg)
 
 ### Key Features
 
@@ -99,7 +99,7 @@ Before responding, the assistant uses **Tool Calling** to query live on-chain an
   - No auto-submit
   - No signing on the user’s behalf
 
-![Assistant Flow Chart](images/flow_chart.jpg)
+![Assistant Flow Chart](flow_chart.jpg)
 
 ### Roadmap
 
